@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sfg-di" target="14" />
+      <module name="sfg-di" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
